@@ -1,0 +1,2 @@
+docker_builder:
+  test_script: python2 .ci/test.py
